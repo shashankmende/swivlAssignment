@@ -1,4 +1,4 @@
-**Swivl Company Backend Assignment**
+**Backend Assignment**
 
 Recipe Sharing Platform with OOP
 
